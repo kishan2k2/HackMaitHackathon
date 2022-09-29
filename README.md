@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+The website is hosted at https://elegant-platypus-b49382.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
